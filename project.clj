@@ -1,6 +1,6 @@
 (defproject com.howardlewisship/bgg-graphql-proxy "0.0.1"
   :description "GraphQL interface to BoardGameGeek"
-  :dependencies [[org.clojure/clojure "1.8.0"]
+  :dependencies [[org.clojure/clojure "1.10.0"]
                  [io.aviso/logging "0.2.0"]
                  [com.walmartlabs/lacinia "0.13.0"]
                  [clj-http "2.3.0"]
